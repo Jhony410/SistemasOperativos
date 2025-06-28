@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1751070131 source:c:\code blocks\sistemas operativos\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1751070054 c:\code blocks\sistemas operativos\resource.h
+
+1751071427 source:c:\code blocks\sistemas operativos\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<vector>
+	<string>
+	"resource.h"
+	"SegundaOportunidad.h"
+	"Fifo.h"
+	"Paginacion.h"
+	"Segmento.h"
+	"LRU.h"
+	"MRU.h"
+	"Optimo.h"
+	"NFU.h"
+
+1751073162 c:\code blocks\sistemas operativos\segundaoportunidad.h
+	<vector>
+	<string>
+	<string>
+	"Pagina.h"
+
+1751069482 c:\code blocks\sistemas operativos\pagina.h
+
+1751070435 c:\code blocks\sistemas operativos\fifo.h
+	<vector>
+	<string>
+	<string>
+	"Pagina.h"
+
+1751073162 c:\code blocks\sistemas operativos\paginacion.h
+	<vector>
+	<string>
+	<string>
+	"Pagina.h"
+
+1751073162 c:\code blocks\sistemas operativos\segmento.h
+	<vector>
+	<string>
+	<string>
+	"Pagina.h"
+
+1751073162 c:\code blocks\sistemas operativos\lru.h
+	<vector>
+	<string>
+	<string>
+	<algorithm>
+	"Pagina.h"
+
+1751073162 c:\code blocks\sistemas operativos\mru.h
+	<vector>
+	<string>
+	<string>
+	"Pagina.h"
+
+1751073162 c:\code blocks\sistemas operativos\optimo.h
+	<vector>
+	<string>
+	<string>
+	<algorithm>
+	"Pagina.h"
+
+1751070435 c:\code blocks\sistemas operativos\nfu.h
+	<vector>
+	<string>
+	<string>
+	<algorithm>
+	"Pagina.h"
+
